@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286764976998",
+    "project_id": "itnessapp",
+    "storage_bucket": "itnessapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286764976998:android:9f2ef8028787a97f24d6a7",
+        "android_client_info": {
+          "package_name": "com.ahmad.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3PU2xX8FZ1zlb7_G6AzdmxXgAPvlqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
